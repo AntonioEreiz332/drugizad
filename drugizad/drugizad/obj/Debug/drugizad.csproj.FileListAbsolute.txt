@@ -1,0 +1,7 @@
+C:\Users\Učenik07\source\repos\drugizad\drugizad\bin\Debug\drugizad.exe.config
+C:\Users\Učenik07\source\repos\drugizad\drugizad\bin\Debug\drugizad.exe
+C:\Users\Učenik07\source\repos\drugizad\drugizad\bin\Debug\drugizad.pdb
+C:\Users\Učenik07\source\repos\drugizad\drugizad\obj\Debug\drugizad.csprojAssemblyReference.cache
+C:\Users\Učenik07\source\repos\drugizad\drugizad\obj\Debug\drugizad.csproj.CoreCompileInputs.cache
+C:\Users\Učenik07\source\repos\drugizad\drugizad\obj\Debug\drugizad.exe
+C:\Users\Učenik07\source\repos\drugizad\drugizad\obj\Debug\drugizad.pdb
